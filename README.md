@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af5076c4-8c8b-4dfa-8ecf-5467c820b5d9)# Calculator
+# Calculator
 Текстовый калькулятор
 Студент - Антонов Артём Андреевич
 Группа - ТРПО24-2
